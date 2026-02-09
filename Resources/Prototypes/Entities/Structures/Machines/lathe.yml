@@ -463,6 +463,14 @@
     - SubstationMachineCircuitboard
     - SMESMachineCircuitboard
     - APCElectronics
+    - CellRechargerCircuitboard
+    - WeaponCapacitorRechargerCircuitboard
+    - FreezerElectronics
+    - MailingUnitElectronics
+    - IntercomElectronics
+    - DoorElectronics
+    - FirelockElectronics
+    - AirAlarmElectronics
     dynamicRecipes:
       - ReliableSubstationMachineCircuitboard
       - ReliableSMESMachineCircuitboard
